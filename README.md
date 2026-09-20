@@ -1,5 +1,9 @@
 # Deno Video Player
 
+<p align="center">
+  <img src="Assets/brand/deno-mark.svg" alt="DENO mark" width="104">
+</p>
+
 English | [Korean](docs/README.ko.md) | [Japanese](docs/README.ja.md) | [Simplified Chinese](docs/README.zh-CN.md) | [Spanish](docs/README.es.md) | [Portuguese (Portugal)](docs/README.pt-PT.md) | [Portuguese (Brazil)](docs/README.pt-BR.md) | [Indonesian](docs/README.id.md)
 
 **A focused Windows player for opening local video, audio, images, and subtitles without ads, accounts, cloud sync, or telemetry.**
